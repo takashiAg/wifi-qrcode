@@ -1,6 +1,6 @@
 # WIFI の QR コードスキャンするやつ作りました
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 [mui](https://mui.com/)と[](https://www.npmjs.com/package/wifi-qr-code-generator)をいい感じに組み合わせて作りました
 
 ## Available Scripts
