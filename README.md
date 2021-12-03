@@ -16,6 +16,6 @@ dev モードで立ち上げます。\
 
 ビルドします。
 
-### `yarn deploy`(comming soon)
+### `yarn deploy`
 
 github pages にデプロイします。
